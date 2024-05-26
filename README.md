@@ -1,6 +1,7 @@
 # ShibaToken
 
-Simple overview of use/purpose.
+#Simple overview of use/purpose.
+
 ShibaToken is a Solidity smart contract which allows users to mint new tokens and burn old ones. It supports basic ERC20-like token functionality.
 
 ## Description
